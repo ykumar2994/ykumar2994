@@ -5,7 +5,7 @@
 •	Application Development Analyst at Accenture Solutions Pvt. Ltd  (India).                                                 Feb 2017 - Jan 2019
 ![Professional Experience Overview •	Technical Analyst at Intersoft Data Labs & Solutions Pvt. Ltd. (India)                                                        Dec 2019 - Dec 2021 •	Associate Consultant at Hoonar Tekwurks Consulting LLP       (India)                                                          Jan 2019 - Dec 2019 •	Application Development Analyst at Accenture Solutions Pvt. Ltd  (India).                                                 Feb 2017 - Jan 2019]
 
-**Bio**
+**Bio**:
 Currently pursuing Ontario post graduation certification in Big Data Analytics from Lambton College.
 I am having 4.10 year of experience of data warehousing/data lake and building ETL data Pipelines along with telecom, retail and insurance domain functional experience in various companies.
 
