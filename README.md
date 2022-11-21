@@ -12,7 +12,18 @@
 Currently pursuing Ontario post graduation certification in Big Data Analytics from Lambton College.
 I am having 4.10 year of experience of data warehousing/data lake and building ETL data Pipelines along with telecom, retail and insurance domain functional experience in various companies.
 
-Skills: Data Integration (ETL tool): Abinitio, Talend  Databases: Teradata , Oracle PL SQL, Mysql, MS SQL Sever Programming Language: Unix scripting, Scala, Python Scheduling Tool: Autosys, Abinitio control center,  Data Visualization: Power BI , Tableau , Google studio Cloud: GCP big query, cloud composer (airflow),cloud storage, cloud SQL, Dataproc AI/ML : ML models , NLP , numpy, pandas and various libraries  Bigdata: Hadoop, HDFS, Hive, Pig, Sqoop, Apcahe spark, pyspark Source code Management: GitHub -git cli Ticketing Tool: service now, Jira , Jira cloud
+Skills: 
+
+Data Integration (ETL tool): Abinitio, Talend  
+Databases: Teradata , Oracle PL SQL, Mysql, MS SQL Sever 
+Programming Language: Unix scripting, Scala, Python 
+Scheduling Tool: Autosys, Abinitio control center,  
+Data Visualization: Power BI , Tableau , Google studio 
+Cloud: GCP big query, cloud composer (airflow),cloud storage, cloud SQL, Dataproc   
+AI/ML : ML models , NLP , numpy, pandas and various other libraries  
+Bigdata: Hadoop, HDFS, Hive, Pig, Sqoop, Apcahe spark, pyspark 
+Source code Management: GitHub -git cli 
+Ticketing Tool: service now, Jira , Jira cloud
 
 - 🔭 I’m currently working on Data Science projects 
 - 🌱 I’m currently learning Data science and data enginnering 
