@@ -1,8 +1,11 @@
 ### my name is Yogesh Kumar
 #### Professional Experience Overview 
-•	Technical Analyst at Intersoft Data Labs & Solutions Pvt. Ltd. (India)                                                        Dec 2019 - Dec 2021 
+•	Technical Analyst at Intersoft Data Labs & Solutions Pvt. Ltd. (India)                                                        Dec 2019 - Dec 2021
+
 •	Associate Consultant at Hoonar Tekwurks Consulting LLP       (India)                                                          Jan 2019 - Dec 2019 
+
 •	Application Development Analyst at Accenture Solutions Pvt. Ltd  (India).                                                 Feb 2017 - Jan 2019
+
 
 
 **Bio**:
