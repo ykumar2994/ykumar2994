@@ -1,9 +1,9 @@
 ### my name is Yogesh Kumar
 #### Professional Experience Overview 
 
-•	Business System Analyst Co-op at TD Bank (Canada)                                                                             May 2023 - Sep 2023      
+•	Data Engineer Co-op at TD Bank (Canada)                                                                             May 2023 - Dec 2023      
 
-•	Technical Analyst at Intersoft Data Labs & Solutions Pvt. Ltd. (India)                                                        Dec 2019 - Dec 2021
+•	Data Engineer at Intersoft Data Labs & Solutions Pvt. Ltd. (India)                                                        Dec 2019 - Dec 2021
 
 •	Associate Consultant at Hoonar Tekwurks Consulting LLP       (India)                                                          Jan 2019 - Dec 2019 
 
